@@ -7,7 +7,7 @@ import urban from './images/urban.jpg'
 import mjau from './images/mjau.jpg'
 import viking from './images/viking.jpg'
 import kult from './images/kult.jpg'
-import zena from './images/mart8.jpg'
+import zena from './images/zena.jpg'
 
 const logotext = "ZDIZAJN";
 const meta = {
