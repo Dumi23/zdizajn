@@ -143,9 +143,9 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    instagram: "https://instagram.com",
+    instagram: "https://www.instagram.com/zdi.zajn/",
     github: "https://github.com",
-    facebook: "https://facebook.com",
+    facebook: "https://www.facebook.com/stakic01",
     linkedin: "https://linkedin.com",
     twitter: "https://twitter.com",
 };
